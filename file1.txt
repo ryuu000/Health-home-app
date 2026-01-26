@@ -1,5 +1,0 @@
-# From frontend folder
-npx create-expo-app MaxAtHomeMobile --template
-expo install expo-location expo-camera expo-notifications
-expo build:android --release-channel production
-# Upload APK to Google Play Console ($25 one-time fee)
